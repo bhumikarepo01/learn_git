@@ -2,6 +2,5 @@
 
 Hello this is java code
 
-'''javascript
+```javascript
 console.log('Hello world')
-'''
