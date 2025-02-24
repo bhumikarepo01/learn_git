@@ -1,4 +1,7 @@
 # learn About git and github
 
-<!-- javascript code -->
+Hello this is java code
+
+'''javascript
 console.log('Hello world')
+'''
